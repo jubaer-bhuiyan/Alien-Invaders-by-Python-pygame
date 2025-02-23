@@ -14,6 +14,12 @@ Alien Invaders is a 2D arcade game developed in Python using the Pygame library.
   - Eliminate all aliens to progress to the next level, where the game speed increases.
   - The game ends if an alien collides with your ship or reaches the bottom of the screen.
 
+## Screenshots
+
+![Game Screenshot 1](screenshots/gameplay1.png)
+![Game Screenshot 2](screenshots/gameplay2.png)
+![Game Screenshot 3](screenshots/gameplay3.png)
+
 ## Installation and Setup
 
 1. **Clone the Repository**:
