@@ -53,7 +53,3 @@ Alien Invaders is a 2D arcade game developed in Python using the Pygame library.
 ## Contributing
 
 Contributions are welcome! Feel free to fork this repository, make enhancements, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
